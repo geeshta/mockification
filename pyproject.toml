@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "mockification"
 version = "0.1.0"
-description = "Application for mocking response codes."
+description = ""
 authors = ["Štefan Földesi <stefan.foldesi@outlook.com>"]
 license = "MIT"
 
